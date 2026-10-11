@@ -35,6 +35,7 @@ Currently we have 3 members in our team
 > - [@ssdarealest](https://alyosha.is-a.dev), the founder of the team.
 > - [@heiznerd](https://heiznerd.is-a.dev), Co-Founder & Lead of R&D.
 > - [@maiminhdung](https://maiminhdung.dev), Co-Founder & Lead of R&D.
+> - [@maiminhdung](https://maiminhdung.dev), Co-Founder & Lead of fun.
 
 We are seeking for more member to join our team. Please let us know by leave a favour through [contact@nekofoundation.tech](mailto:contact@nekofoundation.tech).
 
